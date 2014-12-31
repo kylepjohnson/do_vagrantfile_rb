@@ -1,9 +1,9 @@
 ABOUT
 =====
 
-Vagrantfile and startup script for Radio Buddha [http://radiobuddha.com], hosted by Digital Ocean. I'd say this is about 95% automated. Audio files must be transferred by hand to /var/lib/mpd/music. Playlist for Radio Buddha taken from another git repository [https://github.com/kylepjohnson/radio_buddha_mpd_confs.git].
+Vagrantfile and startup script for Radio Buddha [http://radiobuddha.com], hosted by Digital Ocean. This is about 95% automated. Audio files must be transferred by hand to /var/lib/mpd/music. Playlist for Radio Buddha taken from another git repository [https://github.com/radiobuddha/radio_buddha_mpd_confs.git].
 
-To get started with Vagrant, I recommend the excellent docs at Digital Ocean:
+To get started with Vagrant, consider consulting the excellent docs at Digital Ocean:
 
 [https://www.digitalocean.com/community/articles/how-to-install-vagrant-on-a-vps-running-ubuntu-12-04]
 
